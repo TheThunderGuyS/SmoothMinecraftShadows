@@ -15,6 +15,8 @@ Changelog:
 - 1.0.1: 
   - Updated `README.MD` to make it fancy, adding a changelog and some links.
   - Updated the so called `"LICENCE.MD"` to be more functional.
+  - Updated the `pack.png` to be more pixelated, like a Minecraft painting.
+  - Updated the `pack.mcmeta` to now display my name and the version number.
 
 - 1.0.0b:
   - Fixed a spelling error and some formatting in `README.MD`.
