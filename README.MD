@@ -10,6 +10,11 @@ Share [this](https://github.com/TheThunderGuyS/SuperDuperHDMinecraftShadows-Reso
 
 Current version: `1.0.1`
 
+Installation instructions:
+ 1. Download the pack
+ 2. Put it in your resourcepacks folder
+ 3. Enable it and Enjoy!
+
 Changelog:
 
 - 1.0.1: 
