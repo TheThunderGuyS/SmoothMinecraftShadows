@@ -2,7 +2,7 @@
 This ~~code-free~~ resource pack that lives on GitHub was created so *you* can have super duper fancy HD entity shadow thingies in Minecraft!
 
 Example:
-![alt text](Preview.png)
+![alt text](Comparison.png)
 
 > Made by TheThunderGuy_S with MSPaint :P. 
 
@@ -23,6 +23,8 @@ Changelog:
 - 1.0.1.1, August 28th, 2019:
   - Add dates to the changelog in `README.MD` as well as a image of the pack.
   - Fix an error in `LICENCE.MD` where it read "August 8th" rather than "August 28th".
+  - Pack preview is now a comparison rather than a demo.
+  - Removed version number from description, took up too much space.
 
 - 1.0.1, August 28th, 2019: 
   - Updated `README.MD` to make it fancy, adding a changelog and some links.
