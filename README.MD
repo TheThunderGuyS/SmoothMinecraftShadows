@@ -55,6 +55,3 @@ Changelog:
   
 **End of document**
 ![alt text](Preview.png)
-
-Here's the fancy texture for you:
-![alt text](assets/minecraft/textures/misc/shadow.png)
