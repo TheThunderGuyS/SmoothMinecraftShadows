@@ -1,4 +1,4 @@
-# Super Duper HD Minecraft Shadows - Resource Pack
+# HD Minecraft Shadows
 This ~~code-free~~ resource pack that lives on GitHub was created so *you* can have super duper fancy HD entity shadow thingies in Minecraft!
 
 Example:
