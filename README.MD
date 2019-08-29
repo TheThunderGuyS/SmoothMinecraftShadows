@@ -20,6 +20,10 @@ Installation instructions:
  2. Put it in your resourcepacks folder
  3. Enable it and Enjoy!
 
+ **End of documenttation. Changelog below:**
+ 
+ ![alt text](Preview.png)
+
 Changelog:
 
 - 1.0.1.2, August 29th, 2019:
@@ -52,6 +56,4 @@ Changelog:
   - Initial private release in the form of `"4kShadows"`.
   
   
-  
-**End of document**
-![alt text](Preview.png)
+**End of changelog**
