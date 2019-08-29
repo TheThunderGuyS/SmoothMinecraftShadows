@@ -1,17 +1,19 @@
 # Smooth Minecraft Shadows
 This ~~code-free~~ resource pack that lives on GitHub was created so *you* can have super duper fancy HD entity shadow thingies in Minecraft!
 
-Example:
-![alt text](Comparison.png)
+![alt text](pack.png)
 
 > Made by TheThunderGuy_S with MSPaint :P. 
 
 Please credit me when sharing the file.
 Read my non-exsistant "licence" [here!](LICENCE.MD)
 
-Share [this](https://github.com/TheThunderGuyS/SuperDuperHDMinecraftShadows-ResourcePack/releases/) link with your friends to brig them to the download page: `https://github.com/TheThunderGuyS/SuperDuperHDMinecraftShadows-ResourcePack/releases`.
+Share [this](https://github.com/TheThunderGuyS/SmoothMinecraftShadows/releases) link with your friends to brig them to the download page: `https://github.com/TheThunderGuyS/SmoothMinecraftShadows/releases`.
 
-Current version: `1.0.1.1`
+Here is a comparison:
+![alt text](Comparison.png)
+
+Current version: `1.0.1.2`
 
 Installation instructions:
  1. Download the pack
@@ -19,6 +21,11 @@ Installation instructions:
  3. Enable it and Enjoy!
 
 Changelog:
+
+- 1.0.1.2, August 29th, 2019:
+  - I promise this is the last readme change.
+  - The pack is now known as "SmoothMinecraftShadows".
+  - More reformatting to `README.MD`.
 
 - 1.0.1.1, August 28th, 2019:
   - Add dates to the changelog in `README.MD` as well as a image of the pack.
@@ -46,4 +53,8 @@ Changelog:
   
   
   
-  **End of document**
+**End of document**
+![alt text](Preview.png)
+
+Here's the fancy texture for you:
+![alt text](assets/minecraft/textures/misc/shadow.png)
