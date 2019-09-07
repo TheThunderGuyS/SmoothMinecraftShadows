@@ -6,7 +6,7 @@ This ~~code-free~~ resource pack that lives on GitHub was created so *you* can h
 > Made by TheThunderGuy_S with MSPaint :P. 
 
 Please credit me when sharing the file.
-Read my non-exsistant "licence" [here!](LICENCE.MD)
+Read my non-existing "license" [here!](LICENSE.MD)
 
 Share [this](https://github.com/TheThunderGuyS/SmoothMinecraftShadows/releases) link with your friends to brig them to the download page: `https://github.com/TheThunderGuyS/SmoothMinecraftShadows/releases`.
 
