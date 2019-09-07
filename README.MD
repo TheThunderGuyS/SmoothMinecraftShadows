@@ -17,7 +17,7 @@ Current version: `1.0.1.3`
 
 Installation instructions:
  1. Download the pack
- 2. Put it in your resourcepacks folder
+ 2. Put it in your `resourcepacks` folder
  3. Enable it and Enjoy!
 
 *******************************************
