@@ -13,7 +13,7 @@ Share [this](https://github.com/TheThunderGuyS/SmoothMinecraftShadows/releases) 
 Here is a comparison:
 ![alt text](Comparison.png)
 
-Current version: `1.0.1.2`
+Current version: `1.0.1.3`
 
 Installation instructions:
  1. Download the pack
@@ -25,6 +25,9 @@ Installation instructions:
  ![alt text](Preview.png)
 
 Changelog:
+
+- 1.0.1.3, September 7th, 2019
+  - Updated `LICENSE.MD` to version 1.1.2
 
 - 1.0.1.2, August 29th, 2019:
   - I promise this is the last readme change.
