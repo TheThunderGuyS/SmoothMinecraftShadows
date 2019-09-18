@@ -3,7 +3,7 @@
 Smooth Minecraft Shadows is the world's least useful Minecraft resource pack! It makes shadows under mobs super fancy and smooth.
 Please credit me when sharing the file.
 
-Read my non-existing "license" [here](LICENSE.md).
+Read my non-existing ["license"](LICENSE.MD).
 
 See the [Code of Conduct](CODE_OF_CONDUCT.md).
 
