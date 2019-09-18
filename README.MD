@@ -12,7 +12,7 @@ Go to the [Downloads](https://github.com/TheThunderGuyS/SmoothMinecraftShadows/r
 Here is a comparison; a before and after:
 ![oof the image didn't load](Comparison.png)
 
-Current version: `1.0.2`
+The latest release is `1.0.2` for Minecraft: Java Edition `1.14.4`.
 
 Installation instructions:
  1. Download the pack
