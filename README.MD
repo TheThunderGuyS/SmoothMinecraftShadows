@@ -10,7 +10,7 @@ Read my non-existing ["license"](LICENSE.md).
 See the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 Here is a comparison of before and after enabling the pack:
-![oof the image didn't load](comparison.png)
+![oof the image didn't load](compare.png)
 
 The latest release is `1.1` for Minecraft: Java Edition `1.14.4`.
 
