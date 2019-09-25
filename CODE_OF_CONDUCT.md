@@ -1,5 +1,5 @@
 # Code of Conduct
-> TheThunderGuyS v1.0.1, September 18th, 2019.
+> TheThunderGuyS v1.0.1, September 17th, 2019.
 **********************
 # Summary
 *Smooth Minecraft Shadows* is a fan project created for all to share, contribute to and be productive in. 
