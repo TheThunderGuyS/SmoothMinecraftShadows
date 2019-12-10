@@ -12,7 +12,7 @@ See the [Code of Conduct](CODE_OF_CONDUCT.md).
 Here is a comparison of before and after enabling the pack:
 ![oof the image didn't load](compare.png)
 
-The latest release is `1.1` for Minecraft: Java Edition `1.14.4`.
+The latest release is `1.1.1` for Minecraft: Java Edition `1.15`.
 
 Installation instructions:
  1. Download the pack
@@ -23,6 +23,9 @@ Installation instructions:
  ![](banner.png)
 
 Changelog:
+
+- 1.1.1 - December 10th, 2019:
+  - Updated for 1.15
 
 - 1.1 - September 25th, 2019:
   - The shadow texture is no longer blurred. This better fits the style of the game and won't make the shadow turn white at the ends.
