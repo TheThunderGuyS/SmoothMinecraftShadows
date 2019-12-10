@@ -14,7 +14,7 @@ Here is a comparison of before and after enabling the pack:
 
 The latest release is `1.1.1` for Minecraft: Java Edition `1.15`.
 
-Installation instructions:
+### Installation instructions:
  1. Download the pack
  2. Put it in your `resourcepacks` folder
  3. Enable it and Enjoy!
@@ -22,7 +22,7 @@ Installation instructions:
 **********
  ![](banner.png)
 
-Changelog:
+### Changelog:
 
 - 1.1.1 - December 10th, 2019:
   - Updated for 1.15
@@ -66,4 +66,3 @@ Changelog:
   - Initial private release in the form of `"4kShadows"`.
   
 ********************  
-**End of Changelog**
