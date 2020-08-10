@@ -12,7 +12,7 @@ See the [Code of Conduct](CODE_OF_CONDUCT.md).
 Here is a comparison of before and after enabling the pack:
 ![oof the image didn't load](compare.png)
 
-The latest release is `1.1.1` for Minecraft: Java Edition `1.15`.
+The latest release is `1.1.2` for Minecraft: Java Edition `1.16.2`.
 
 ### Installation instructions:
  1. Download the pack
@@ -23,6 +23,9 @@ The latest release is `1.1.1` for Minecraft: Java Edition `1.15`.
  ![](banner.png)
 
 ### Changelog:
+
+- 1.1.2 - August 10th, 2020:
+  - Updated for 1.16.2 which cahnged the pack format version.
 
 - 1.1.1 - December 10th, 2019:
   - Updated for 1.15
